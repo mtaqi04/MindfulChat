@@ -1,4 +1,4 @@
-**AI-Based Mindful Chatbot**
+ **AI-Based Mindful Chatbot**
 
 **Introduction**
 
