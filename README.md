@@ -1,5 +1,5 @@
  **AI-Based Mindful Chatbot**
-        
+
 **Introduction**
 
 The AI-Based Mindful Chatbot is a web application designed to help users improve their mental well-being through mindful conversations. Built using Flask, HTML, CSS, and JavaScript, the chatbot leverages AI to provide thoughtful responses that promote mindfulness, relaxation, and self-reflection.
